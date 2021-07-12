@@ -9,7 +9,7 @@ name: Miguel Cores
 description: Aspiring Cryptocurrency Trader
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: <a href="{{ site.baseurl }}/choose life.JPG"</a>
+avatar: choose life.JPG
 
 #
 # Flags below are optional
