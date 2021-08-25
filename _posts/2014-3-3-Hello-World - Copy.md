@@ -1,6 +1,7 @@
 ---
 layout: post
-# Deep dive into Solana
+title: Deep dive into Solana
+---
 
 ```
 SOL ← Solana
