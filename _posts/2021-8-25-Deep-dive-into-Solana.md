@@ -85,13 +85,10 @@ Thank you [@Mat_Sherman](https://twitter.com/Mat_Sherman?ref_src=twsrc%5Etfw%7Ct
 [*"Technical Scalability Creates Social Scalability*"](https://multicoin.capital/2021/05/25/technical-scalability-creates-social-scalability/) by Kyle Samani, MP at Multicoin Capital
 
 > *Because it natively executes transactions in parallel on GPUs, it can take advantage of the massive gains in parallelism that GPUs provide.*
-
 > Solana literally scales at the limits of physics - S*olana is the only blockchain that natively supports intra-shard parallelism via its SeaLevel runtime. SeaLevel executes transactions natively on GPUs. When Nvidia releases new GPUs in 12-24 months with 8,000 cores, the Solana network’s computational bandwidth will roughly double.*
 
 [*"Composability is Innnovation*"](https://future.a16z.com/how-composability-unlocks-crypto-and-everything-else/) by Linda Xie, co-founder of Scalar Capital
 
 > *Developers can bootstrap their own projects and communities without having to build everything from scratch [...]*
-
 > *Non-crypto businesses can increase efficiency and have more functionality by plugging into open ecosystems [...]*
-
 > *Developers can learn and apply concepts from a broad variety of industries [...]*
