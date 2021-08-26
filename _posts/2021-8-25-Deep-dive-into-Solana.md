@@ -9,7 +9,7 @@ Prev to Race, founded and led the network and community ecosystem at Greylock Pa
 
 Now very supportive of infrastructure and [SOL's ecosystem startups](https://solana.com/ecosystem/#).
 
-**How do we categorize Solana?**
+### How do we categorize Solana?
 
 Layer1 protocol - the thing people build apps on top of, where all transactions are processed.
 
@@ -19,7 +19,7 @@ SOL's token is SPL token.
 
 One is a SOL user via a SOL wallet. This wallet can be used to interact with SOL's apps (e.g. [buy degens](https://www.degenape.academy/)). SOL's userbase comprises devs (exchanges included here), traders, and app users.
 
-    **What drives your attention in the crypto industry?**
+### What drives your attention in the crypto industry?
 
 1. Its complexity. Back in the day (t<2017) crypto was a very simple industry. Now people talk of the crypto industry as a whole but it entails many layers (Infrastructure (ETH), Consumer (NFTs), Financial (DeFi), ...). SOL is only 1 ecosystem among many. VCs look at SOL's projects very similarly to normal-world ventures.
 2. Infrastructure. Infra is my thing - consumer layer not his sweet spot.
@@ -28,7 +28,7 @@ One is a SOL user via a SOL wallet. This wallet can be used to interact with SOL
 
 3. Communities. There are large communities around this. These are built from the bottom up, not up-down. Very interesting.
 
-    **I want to get involved in Solana and I have $1k - what do I do?**
+### I want to get involved in Solana and I have $1k - what do I do?
 
 Create a wallet ([download Phantom](https://phantom.app/) and create your wallet [*]), buy SOL (from [FTX markets](https://ftx.com/trade/SOL/USD) or any others) and send it to your wallet (your public key) - now ready to use SOL apps.
 
@@ -38,7 +38,7 @@ Go to [Saber](https://saber.so/) and use one of its products (e.g. allocate usdt
 
 [*] Make sure to store your private key securely
 
-    **What differentiates Solana and the other protocols?**
+### What differentiates Solana and the other protocols?
 
 Its scalable composability without need for [layer 2s](https://coinmarketcap.com/alexandria/article/what-are-cryptocurrency-layer-2-scaling-solutions)/[sharding](https://www.investopedia.com/terms/s/sharding.asp).
 
@@ -46,7 +46,7 @@ Speed and cost. If the previous process was done in ETH, one would need >$1K (ET
 
 SOL offers good UX without sacrificing much on decentralization.
 
-    **Solana winning then?**
+### Solana winning then?
 
 Crypto is so early that no one is competing - the industry not prepared for mass adoption yet. Once things get into scale... yes, there will be competing communities.
 
