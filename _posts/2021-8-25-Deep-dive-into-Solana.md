@@ -77,7 +77,7 @@ Interview hosted by [@Mat_Sherman](https://twitter.com/Mat_Sherman?ref_src=twsrc
 
 → **More reads on SOL:**
 
-[Why we are bullish on Solana](https://github.com/sinoglobalcap/investment-theses/blob/main/english/solana.md) by Sino Global Capital
+[*"Why we are bullish on Solana*"](https://github.com/sinoglobalcap/investment-theses/blob/main/english/solana.md) by Sino Global Capital
 
 > *Solana fills a major performance gap in the world of blockchains while remaining decentralized and composable. A bet on Solana is a bet that one day we will need fully decentralized systems that can support thousands of high-value complex transactions per second and that the chain that can support that scalability and finality today will accrue significant value.*
 
