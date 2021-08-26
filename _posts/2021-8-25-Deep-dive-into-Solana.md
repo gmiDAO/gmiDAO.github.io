@@ -1,8 +1,7 @@
-# Deep dive into Solana
-
-```r
-SOL ← Solana
-```
+---
+layout: post
+title: Deep Dive into Solana w. Chris McCann + links to other SOL reads
+---
 
 **Who is Chris McCann?**
 
@@ -94,4 +93,8 @@ There is a strong ethos that things must be architectured so everyone with a ras
 
 > *Non-crypto businesses can increase efficiency and have more functionality by plugging into open ecosystems [...]*
 
+<<<<<<< HEAD
 > *Developers can learn and apply concepts from a broad variety of industries [...]*
+=======
+There is a strong ethos that things must be architectured so everyone with a raspberry pi can participate. SOL is fast cuz its tech stack (optimized for high-end GPUs) and its consensus mechanism (PoH). SOL is more practical, less religious.
+>>>>>>> ce435ea08c30490282572692dba43cdf102c3aca
