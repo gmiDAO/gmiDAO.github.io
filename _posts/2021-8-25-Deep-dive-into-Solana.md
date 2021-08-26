@@ -50,15 +50,17 @@ SOL offers good UX without sacrificing much on decentralization.
 
 Crypto is so early that no one is competing - the industry not prepared for mass adoption yet. Once things get into scale... yes, there will be competing communities.
 
-    **Why do anonymous apes follow me?**
+### Why do anonymous apes follow me?
 
 2 weeks ago took place the Degen NFT sale. People want to remain anonymous and owning an image that represents them seems to have reached PMF - first tiny move to the metaverse?
 
-    **What about Solana's centralization topic?**
+### What about Solana's centralization topic?
 
 True that SOL has a smaller set of validators in comparison with PoW Solutions. But some PoW solutions, not so decentralized - e.g. BTC's miners are huge industrial conglomerates. SOL's high throughput makes it hard to bootstrap a whole node, but SOL is not that bad - currently [999 validators](https://solanabeach.io/validators) and [Stake Pool Program](https://spl.solana.com/stake-pool) (SOL's Dev Team continuously working on improving SOL).
 
 There is a strong ethos that things must be architectured so everyone with a raspberry pi can participate. SOL is fast cuz its tech stack [1] (optimized for high-end GPUs) and its consensus mechanism ([PoH](https://medium.com/solana-labs/proof-of-history-a-clock-for-blockchain-cf47a61a9274)) - SOL is more practical, less religious.
+
+Interview hosted by [@Mat_Sherman](https://twitter.com/Mat_Sherman?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1430210742670696449%7Ctwgr%5E%7Ctwcon%5Es1_&ref_url=https%3A%2F%2Fpublish.twitter.com%2F%3Fquery%3Dhttps3A2F2Ftwitter.com2Fmiche_yu2Fstatus2F1430210742670696449widget%3DTweet) at [@Clubhouse](https://twitter.com/Clubhouse)
 
 ---
 
