@@ -19,7 +19,7 @@ SOL's token is SPL token.
 
 One is a SOL user via a SOL wallet. This wallet can be used to interact with SOL's apps (e.g. [buy degens](https://www.degenape.academy/)). SOL's userbase comprises devs (exchanges included here), traders, and app users.
 
-**What drives your attention in the crypto industry?**
+    **What drives your attention in the crypto industry?**
 
 1. Its complexity. Back in the day (t<2017) crypto was a very simple industry. Now people talk of the crypto industry as a whole but it entails many layers (Infrastructure (ETH), Consumer (NFTs), Financial (DeFi), ...). SOL is only 1 ecosystem among many. VCs look at SOL's projects very similarly to normal-world ventures.
 2. Infrastructure. Infra is my thing - consumer layer not his sweet spot.
@@ -38,7 +38,7 @@ Go to [Saber](https://saber.so/) and use one of its products (e.g. allocate usdt
 
 [*] Make sure to store your private key securely
 
-**What differentiates Solana and the other protocols?**
+    **What differentiates Solana and the other protocols?**
 
 Its scalable composability without need for [layer 2s](https://coinmarketcap.com/alexandria/article/what-are-cryptocurrency-layer-2-scaling-solutions)/[sharding](https://www.investopedia.com/terms/s/sharding.asp).
 
@@ -46,15 +46,15 @@ Speed and cost. If the previous process was done in ETH, one would need >$1K (ET
 
 SOL offers good UX without sacrificing much on decentralization.
 
-**Solana winning then?**
+    **Solana winning then?**
 
 Crypto is so early that no one is competing - the industry not prepared for mass adoption yet. Once things get into scale... yes, there will be competing communities.
 
-**Why do anonymous apes follow me?**
+    **Why do anonymous apes follow me?**
 
 2 weeks ago took place the Degen NFT sale. People want to remain anonymous and owning an image that represents them seems to have reached PMF - first tiny move to the metaverse?
 
-**What about Solana's centralization topic?**
+    **What about Solana's centralization topic?**
 
 True that SOL has a smaller set of validators in comparison with PoW Solutions. But some PoW solutions, not so decentralized - e.g. BTC's miners are huge industrial conglomerates. SOL's high throughput makes it hard to bootstrap a whole node, but SOL is not that bad - currently [999 validators](https://solanabeach.io/validators) and [Stake Pool Program](https://spl.solana.com/stake-pool) (SOL's Dev Team continuously working on improving SOL).
 
