@@ -60,7 +60,8 @@ True that SOL has a smaller set of validators in comparison with PoW Solutions. 
 
 There is a strong ethos that things must be architectured so everyone with a raspberry pi can participate. SOL is fast cuz its tech stack [1] (optimized for high-end GPUs) and its consensus mechanism ([PoH](https://medium.com/solana-labs/proof-of-history-a-clock-for-blockchain-cf47a61a9274)) - SOL is more practical, less religious.
 
-Interview hosted by [@Mat_Sherman](https://twitter.com/Mat_Sherman?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1430210742670696449%7Ctwgr%5E%7Ctwcon%5Es1_&ref_url=https%3A%2F%2Fpublish.twitter.com%2F%3Fquery%3Dhttps3A2F2Ftwitter.com2Fmiche_yu2Fstatus2F1430210742670696449widget%3DTweet) at [@Clubhouse](https://twitter.com/Clubhouse)
+---
+Thank you [@Mat_Sherman](https://twitter.com/Mat_Sherman?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1430210742670696449%7Ctwgr%5E%7Ctwcon%5Es1_&ref_url=https%3A%2F%2Fpublish.twitter.com%2F%3Fquery%3Dhttps3A2F2Ftwitter.com2Fmiche_yu2Fstatus2F1430210742670696449widget%3DTweet) for hosting this interview at [@Clubhouse](https://twitter.com/Clubhouse)
 
 ---
 
