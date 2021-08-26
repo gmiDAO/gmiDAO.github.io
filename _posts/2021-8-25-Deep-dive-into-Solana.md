@@ -64,7 +64,7 @@ Interview hosted by [@Mat_Sherman](https://twitter.com/Mat_Sherman?ref_src=twsrc
 
 ---
 
-[1] There are 8 key innovations that make the Solana network possible by Anatoly Yakovenko, Founder and CEO at Solana.
+[1] *"There are 8 key innovations that make the Solana network possible*" by Anatoly Yakovenko, Founder and CEO at Solana.
 
 - **[Proof of History (POH)](https://medium.com/solana-labs/proof-of-history-a-clock-for-blockchain-cf47a61a9274)** — a clock before consensus;
 - **[Tower BFT](https://medium.com/solana-labs/tower-bft-solanas-high-performance-implementation-of-pbft-464725911e79)** — a PoH-optimized version of PBFT;
@@ -81,13 +81,13 @@ Interview hosted by [@Mat_Sherman](https://twitter.com/Mat_Sherman?ref_src=twsrc
 
 > *Solana fills a major performance gap in the world of blockchains while remaining decentralized and composable. A bet on Solana is a bet that one day we will need fully decentralized systems that can support thousands of high-value complex transactions per second and that the chain that can support that scalability and finality today will accrue significant value.*
 
-[Technical Scalability Creates Social Scalability](https://multicoin.capital/2021/05/25/technical-scalability-creates-social-scalability/) by Kyle Samani, MP at Multicoin Capital
+[*"Technical Scalability Creates Social Scalability*"](https://multicoin.capital/2021/05/25/technical-scalability-creates-social-scalability/) by Kyle Samani, MP at Multicoin Capital
 
 > *Because it natively executes transactions in parallel on GPUs, it can take advantage of the massive gains in parallelism that GPUs provide.*
 
 > Solana literally scales at the limits of physics - S*olana is the only blockchain that natively supports intra-shard parallelism via its SeaLevel runtime. SeaLevel executes transactions natively on GPUs. When Nvidia releases new GPUs in 12-24 months with 8,000 cores, the Solana network’s computational bandwidth will roughly double.*
 
-[Composability is Innnovation](https://future.a16z.com/how-composability-unlocks-crypto-and-everything-else/) by Linda Xie, co-founder of Scalar Capital
+[*"Composability is Innnovation*"](https://future.a16z.com/how-composability-unlocks-crypto-and-everything-else/) by Linda Xie, co-founder of Scalar Capital
 
 > *Developers can bootstrap their own projects and communities without having to build everything from scratch [...]*
 
