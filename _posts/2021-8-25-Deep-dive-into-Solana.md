@@ -3,9 +3,7 @@ layout: post
 title: Deep Dive into Solana w. Chris McCann + links to other SOL reads
 ---
 
-**Who is Chris McCann?**
-
-General partner at Race Capital, entrepreneur, and community builder.
+Chris McCann is general partner at Race Capital, entrepreneur, and community builder.
 
 Prev to Race, founded and led the network and community ecosystem at Greylock Partners (Coinbase, Blockstream, and Xapo...). After leaving Greylock, did VC (2017 - Binance, 2018 - Solana [in it for the team], 2019 - FTX...).
 
