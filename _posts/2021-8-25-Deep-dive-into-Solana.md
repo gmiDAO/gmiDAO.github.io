@@ -3,10 +3,6 @@ layout: post
 title: Deep Dive into Solana w. Chris McCann + links to other SOL reads
 ---
 
-```
-SOL ← Solana
-```
-
 **Who is Chris McCann?**
 
 General partner at Race Capital, entrepreneur, and community builder.
