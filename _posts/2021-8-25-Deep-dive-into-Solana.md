@@ -23,9 +23,7 @@ One is a SOL user via a SOL wallet. This wallet can be used to interact with SOL
 
 1. Its complexity. Back in the day (t<2017) crypto was a very simple industry. Now people talk of the crypto industry as a whole but it entails many layers (Infrastructure (ETH), Consumer (NFTs), Financial (DeFi), ...). SOL is only 1 ecosystem among many. VCs look at SOL's projects very similarly to normal-world ventures.
 2. Infrastructure. Infra is my thing - consumer layer not his sweet spot.
-
     > *"Do things that you are interested in and use the stuff yourself to learn!"*
-
 3. Communities. There are large communities around this. These are built from the bottom up, not up-down. Very interesting.
 
 ### I want to get involved in Solana and I have $1k - what do I do?
@@ -33,7 +31,6 @@ One is a SOL user via a SOL wallet. This wallet can be used to interact with SOL
 Create a wallet ([download Phantom](https://phantom.app/) and create your wallet [*]), buy SOL (from [FTX markets](https://ftx.com/trade/SOL/USD) or any others) and send it to your wallet (your public key) - now ready to use SOL apps.
 
 Go to [Saber](https://saber.so/) and use one of its products (e.g. allocate usdt and usdc in the usdt/usdc pool and start earning yield)
-
 > *"Going through the whole process will teach more than reading, viewing, listening... Also, you will learn the pros and cons of these products"*
 
 [*] Make sure to store your private key securely
@@ -79,16 +76,13 @@ Thank you [@Mat_Sherman](https://twitter.com/Mat_Sherman?ref_src=twsrc%5Etfw%7Ct
 → **More reads on SOL:**
 
 [*"Why we are bullish on Solana*"](https://github.com/sinoglobalcap/investment-theses/blob/main/english/solana.md) by Sino Global Capital
-
 > *Solana fills a major performance gap in the world of blockchains while remaining decentralized and composable. A bet on Solana is a bet that one day we will need fully decentralized systems that can support thousands of high-value complex transactions per second and that the chain that can support that scalability and finality today will accrue significant value.*
 
 [*"Technical Scalability Creates Social Scalability*"](https://multicoin.capital/2021/05/25/technical-scalability-creates-social-scalability/) by Kyle Samani, MP at Multicoin Capital
-
 > *Because it natively executes transactions in parallel on GPUs, it can take advantage of the massive gains in parallelism that GPUs provide.*
 > Solana literally scales at the limits of physics - S*olana is the only blockchain that natively supports intra-shard parallelism via its SeaLevel runtime. SeaLevel executes transactions natively on GPUs. When Nvidia releases new GPUs in 12-24 months with 8,000 cores, the Solana network’s computational bandwidth will roughly double.*
 
 [*"Composability is Innnovation*"](https://future.a16z.com/how-composability-unlocks-crypto-and-everything-else/) by Linda Xie, co-founder of Scalar Capital
-
 > *Developers can bootstrap their own projects and communities without having to build everything from scratch [...]*
 > *Non-crypto businesses can increase efficiency and have more functionality by plugging into open ecosystems [...]*
 > *Developers can learn and apply concepts from a broad variety of industries [...]*
