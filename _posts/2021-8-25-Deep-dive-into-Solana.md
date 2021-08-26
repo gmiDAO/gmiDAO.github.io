@@ -1,6 +1,9 @@
-# Deep dive into Solana
+---
+layout: post
+title: Deep Dive into Solana w. Chris McCann + links to other SOL reads
+---
 
-```r
+```
 SOL ← Solana
 ```
 
