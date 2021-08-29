@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Cofounders' walk through Saber
+title: Cofounders' walkthrough Saber
 ---
 
 Founded by [Dylan Macalinao](https://twitter.com/DylanMacalinao) and [Ian Macalinao](https://twitter.com/simplyianm), [Saber](https://saber.so/) is the leading stablecoin and wrapped assets exchange on Solana. Its mission is to be the liquidity network for cross-chain DeFi.
