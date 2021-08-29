@@ -25,7 +25,7 @@ Dylan - in crypto, UIs are usually complicated and UX tends to be bad. We starte
 
 Dylan - got involved in [Metaplex](https://www.metaplex.com/) and met amazing people in the Solana community - good opportunity to learn about Solana.
 
-Ian - I was used to developing in [EVM](https://ethereum.org/en/developers/docs/evm/)s and did not want to change. But finally switched from working on [Ubeswap](https://ubeswap.org/) to Saber in Solana.
+Ian - I was used to developing in [EVM](https://ethereum.org/en/developers/docs/evm/)s and did not want to change - finally switched from working on [Ubeswap](https://ubeswap.org/) to Saber in Solana.
 
 **Where do you see Saber in 5 years from now?**
 
