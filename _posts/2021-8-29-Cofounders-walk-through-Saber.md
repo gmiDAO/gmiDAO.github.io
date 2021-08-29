@@ -65,7 +65,7 @@ Team - exceeding all its expectations.
 
 ---
 
-Thank you @analyticalali for hosting this interview on Twitter
+Thank you [@analyticalali](https://twitter.com/analyticalali) for hosting this interview on Twitter
 
 ---
 
