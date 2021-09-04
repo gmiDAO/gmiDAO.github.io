@@ -1,5 +1,7 @@
-# NFTs imagination And Investment Trends
-
+---
+layout: post
+title: NFTs imagination And Investment Trends
+---
 [MC] [Sally Wang](https://twitter.com/sallywang666) - Head of Marketing at [Sino Global Capital](https://twitter.com/sinoglobalcap) 
 
 [Ben Middleton](https://www.linkedin.com/in/ben-middleton-b32388aa/?originalSubdomain=uk) - Partner at [Ascensive Assets](https://twitter.com/ascensiveasset?lang=en)
@@ -54,7 +56,7 @@ NFT rental markets are a way to broaden accessibility - F1 card collectors want 
 
 Ben - echoes previous opinions. Interoperability is key and user retention is tough - we need to enable the existing user base to change games effortlessly. YGG is a good example that improves the UX by providing users with the capability of swapping items, cooperating with other players...
 
-Steve - thinks that the metaverse paradigm is bringing the first [DAOs](https://cointelegraph.com/ethereum-for-beginners/what-is-dao#:~:text=A%20decentralized%20autonomous%20organization%20(DAO,rules%20enforced%20on%20a%20blockchain.&text=A%20DAO%20works%20without%20hierarchical,a%20large%20number%20of%20purposes.) to life.
+Steve - thinks that the metaverse paradigm is bringing the first [DAOs](https://cointelegraph.com/ethereum-for-beginners/what-is-dao#:~:text=A%20decentralized%20autonomous%20organization%20(DAO,rules%20enforced%20on%20a%20blockchain.&text=A%20DAO%20works%20without%20hierarchical,a%20large%20number%20of%20purposes.)) to life.
 
 Ben - clans are the first type of DAOs - a group of people that requires coordination. Smart contract aspect makes interaction more secure.
 
