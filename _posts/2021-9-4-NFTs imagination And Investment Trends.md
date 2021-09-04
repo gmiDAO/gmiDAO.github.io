@@ -1,5 +1,7 @@
-# NFTs imagination And Investment Trends
-
+---
+layout: post
+title: NFTs imagination And Investment Trends
+---
 [MC] [Sally Wang](https://twitter.com/sallywang666) - Head of Marketing at [Sino Global Capital](https://twitter.com/sinoglobalcap) 
 
 [Ben Middleton](https://www.linkedin.com/in/ben-middleton-b32388aa/?originalSubdomain=uk) - Partner at [Ascensive Assets](https://twitter.com/ascensiveasset?lang=en)
