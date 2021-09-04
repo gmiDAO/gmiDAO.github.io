@@ -1,6 +1,6 @@
 ---
 layout: post
-title: NFTs imagination and Investment Trends
+title: NFTs imagination and investment trends
 ---
 [MC] [Sally Wang](https://twitter.com/sallywang666) - Head of Marketing at [Sino Global Capital](https://twitter.com/sinoglobalcap) 
 
@@ -74,7 +74,7 @@ Thank you @OdailyChina for hosting this interview
 
 ---
 
-→ **More reads on NFTs imagination and Investment Trends:**
+→ **More reads on NFTs imagination and investment trends:**
 
 *["LOOT IS A VIRAL SOCIAL NETWORK THAT LOOKS LIKE NOTHING YOU’VE EVER SEEN"](https://www.theverge.com/22655077/loot-social-network-open-source-nft)* By [Casey Newton](https://www.theverge.com/authors/casey-newton) at The Verge
 
