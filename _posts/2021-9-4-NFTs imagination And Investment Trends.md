@@ -44,7 +44,7 @@ Steve - *"Good point"*. Sees potential combining NFTs with DeFi and real assets 
 
 Sally - agrees with exposed ideas - utility is key for the success of these projects. Sino focuses more on infrastructure (more potential to reach masses). But **DeFi and GameFi are gaining significant traction - which do you think are the pioneers in these verticals? do you see new paradigms emerging?**
 
-Steve - Aavengochi is a leader in that vertical: one can buy an NFT, earn in Aave, and also play - if one dives into this project, one will realize how strong its community is. NFT custody is a big part of our business going forward - important to have businesses addressing custody (e.g. platform to manage NFT portfolio).
+Steve - Aavengochi is a leader in GameFi: one can buy an NFT, earn in Aave, and also play - if one dives into this project, one will realize how strong its community is. NFT custody is a big part of our business going forward - important to have businesses addressing custody (e.g. platform to manage NFT portfolio).
 
 Metaverse components + NFTs + composability = amazing oportunity.
 
