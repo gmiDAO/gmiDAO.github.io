@@ -76,7 +76,7 @@ Thank you @OdailyChina for hosting this interview
 
 → **More reads on NFTs imagination And Investment Trends:**
 
-*["LOOT IS A VIRAL SOCIAL NETWORK THAT LOOKS LIKE NOTHING YOU’VE EVER SEEN"](https://www.theverge.com/22655077/loot-social-network-open-source-nft) By [Casey Newton](https://www.theverge.com/authors/casey-newton) at The Verge
+*["LOOT IS A VIRAL SOCIAL NETWORK THAT LOOKS LIKE NOTHING YOU’VE EVER SEEN"](https://www.theverge.com/22655077/loot-social-network-open-source-nft)* By [Casey Newton](https://www.theverge.com/authors/casey-newton) at The Verge
 
 *An uncharitable way of describing all this is to say that Hofmann created a way to let people pay the Ethereum network to return a list of useless names to them. But Hofmann’s fans saw it very differently, and quickly turned Loot into a phenomenon. The 7,777 bags that Hofmann offered up for minting were all snapped up more or less instantly. In the next five days, Coindesk reported, Loot bags were resold for $46 million, and had a market cap of $180 million [...]. So far, this seems like any other NFT story: weird artwork is released, price goes up quickly. What makes Loot different is the number and variety of projects that have spun up around it at a staggering speed. First, of course, people started drawing pictures of the Loot bags: some by hand, and some by artificial intelligence-generated pixel art.*
 
