@@ -23,7 +23,7 @@ James - [...] the infrastructure and first customers are here.
 
 Sally - **most important aspects when evaluating [NFT](https://en.wikipedia.org/wiki/Non-fungible_token#:~:text=A%20non%2Dfungible%20token%20(NFT,other%20types%20of%20digital%20files.)) projects?**
 
-James - the team is the most important aspect. Some projects overvalue their IP when IP is not that important. Have been focusing on L1 protocols but also did some NFT investments (as the fundamental layers strengthen → more opportunity in user layer apps)
+James - the team is the most important aspect. Some projects overvalue their IP when IP is not that important. Have been focusing on [L1 protocols](https://coinmarketcap.com/alexandria/glossary/layer-1-blockchain) but also did some NFT investments (as the fundamental layers strengthen → more opportunity in user layer apps)
 
 Mia - agrees. To do NFTs, one needs to understand trends and cultures. Looks for teams that come from traditional gaming, [crypto gaming](https://english.elpais.com/usa/2021-08-12/when-playing-video-games-becomes-a-full-time-job.html) ...
 
@@ -39,15 +39,15 @@ Steve - Projects shoud be:
 
 Finally, composability is where the magic happens - [YGG](https://coinmarketcap.com/alexandria/article/what-is-yield-guild-games-ygg) good example of this.
 
-Ben - very aligned to others' perspectives. Also very interested in the DeFi side of NFTs (e.g. NFT collateralized loans, NFT rentals...)
+Ben - very aligned to others' perspectives. Also very interested in the [DeFi](https://ethereum.org/en/defi/) side of NFTs (e.g. NFT collateralized loans, NFT rentals...)
 
 Robby - thinks we are super early and have only seen the tip of the iceberg. Sees amazing innovation happening around "NFTs / digital assets" that allow building businesses on top of other businesses (e.g. real state developers in metaverse). [On [REVV](https://www.revvmotorsport.com/) project?] Now that people own F1 cars, the cars need other elements (e.g. gas stations, replacements...). Stresses the importance of interoperability (there would be no YGG without products like Axie) and expects more innovations that leverage composability.
 
 Steve - *"Good point"*. Sees potential combining NFTs with DeFi and real assets in other industries (e.g. music industry) - NFTs unlock hidden value (e.g. create new utility that did not exist for the fans).
 
-Sally - agrees with exposed ideas - utility is key for the success of these projects. Sino focuses more on infrastructure (more potential to reach masses). But **DeFi and GameFi are gaining significant traction - which do you think are the pioneers in these verticals? do you see new paradigms emerging?**
+Sally - agrees with exposed ideas - utility is key for the success of these projects. Sino focuses more on infrastructure (more potential to reach masses). But **DeFi and [GameFi](https://getblock.io/blog/when-gaming-meets-decentralized-finances-introducing-gamefi) are gaining significant traction - which do you think are the pioneers in these verticals? do you see new paradigms emerging?**
 
-Steve - Aavengochi is a leader in GameFi: one can buy an NFT, earn in Aave, and also play - if one dives into this project, one will realize how strong its community is. NFT custody is a big part of our business going forward - important to have businesses addressing custody (e.g. platform to manage NFT portfolio).
+Steve - Aavengochi is a leader in GameFi: one can buy an NFT, earn in [Aave](https://aave.com/), and also play - if one dives into this project, one will realize how strong its community is. NFT custody is a big part of our business going forward - important to have businesses addressing custody (e.g. platform to manage NFT portfolio).
 
 Metaverse components + NFTs + composability = amazing oportunity.
 
@@ -73,7 +73,7 @@ Steve - don't want to listen to more "copy & paste" NFT projects. Seeking for pr
 
 ---
 
-Thank you @OdailyChina for hosting this interview
+Thank you [@OdailyChina](https://twitter.com/odailychina?lang=en) for hosting this interview
 
 ---
 
