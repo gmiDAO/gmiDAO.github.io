@@ -14,7 +14,10 @@ title: NFTs imagination and investment trends
 
 [Steve Lee](https://twitter.com/xxstevelee) - Investor at [BlockTower Capital](https://twitter.com/BlockTower)
 
+---
+
 [...] - I missed the opening.
+
 
 James - [...] the infrastructure and first customers are here.
 
