@@ -21,7 +21,7 @@ title: NFTs imagination and investment trends
 
 James - [...] the infrastructure and first customers are here.
 
-Sally - **more important aspects when evaluating [NFT](https://en.wikipedia.org/wiki/Non-fungible_token#:~:text=A%20non%2Dfungible%20token%20(NFT,other%20types%20of%20digital%20files.)) projects?**
+Sally - **most important aspects when evaluating [NFT](https://en.wikipedia.org/wiki/Non-fungible_token#:~:text=A%20non%2Dfungible%20token%20(NFT,other%20types%20of%20digital%20files.)) projects?**
 
 James - the team is the most important aspect. Some projects overvalue their IP when IP is not that important. Have been focusing on L1 protocols but also did some NFT investments (as the fundamental layers strengthen → more opportunity in user layer apps)
 
