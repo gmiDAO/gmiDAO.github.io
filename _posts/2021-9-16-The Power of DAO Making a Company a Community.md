@@ -1,5 +1,7 @@
-# The Power of DAO: Making a Company a Community
-
+---
+layout: post
+title: The Power of DAO: Making a Company a Community
+---
 [M] [Ryan Selkis](https://twitter.com/twobitidiot), Co-Founder & CEO at [Messari](https://twitter.com/messaricrypto)
 
 [Julia Rosenberg](https://twitter.com/julzroze?lang=en), Co-Founder at [Orca Protocol](https://twitter.com/OrcaProtocol)
