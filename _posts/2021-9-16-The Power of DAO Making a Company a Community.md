@@ -9,7 +9,9 @@ title: The Power of DAOs: Making a Company a Community
 [Kevin Owocki](https://twitter.com/owocki), Founder of [Gitcoin.co](http://gitcoin.co/)
 
 [Aaron Wright](https://twitter.com/awrigh01), Professor Cardozo Law School; Co-Founder [OpenLaw](https://twitter.com/OpenLawOfficial)
+
 ---
+
 **(2:23) → are [DAO](https://en.wikipedia.org/wiki/Decentralized_autonomous_organization)s decentralized in name only or is this how we get from centralized shitcoins to decentralized communities that are community-governed networks?**
 
 Aaron - thinks DAOs are part of the solution. Last year seen an explosion of people that want to organize different projects e.g. open-source DeFi projects, trying to fund more things through public goods (Gitcoin), other experiments with pooling capital... and DAOs are the solution there. Long-term vision is that a common core treasury is not managed by one or two or dev teams but by its community. Thinks we made great strides at tech, governance, and structure this year. Seeing a lot of value in community-governed software/ investments/ funding(of different stripes)/ organizations.
