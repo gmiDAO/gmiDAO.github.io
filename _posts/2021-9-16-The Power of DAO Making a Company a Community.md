@@ -1,5 +1,3 @@
----
-
 layout: post
 title: The Power of DAOs: Making a Company a Community
 
