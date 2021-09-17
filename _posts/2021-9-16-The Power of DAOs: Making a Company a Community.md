@@ -120,6 +120,8 @@ Kevin - [looks to hottest take possible of [DAO report](https://docs.google.com/
 
 Thank you [@MessariCrypto](https://twitter.com/MessariCrypto) for hosting this interview as prelude of [Mainnet 2021](https://mainnet.events/?utm_content=179786133&utm_medium=social&utm_source=twitter&hss_channel=tw-890365489658122242)
 
+Find the conversation recorded [here](https://www.youtube.com/watch?v=t5foM5YZ8a8)
+
 ---
 
 → **More reads on DAOs:**
