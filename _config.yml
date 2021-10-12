@@ -22,13 +22,13 @@ footer-links:
   facebook: 
   flickr:
   github: gmiDAO
-  instagram: https://www.instagram.com/gonnamakeit_app/
-  linkedin: mc2
+  instagram: gonnamakeit_app/
+  linkedin:
   pinterest:
   rss: # just type anything here for a working RSS icon
-  twitter: https://twitter.com/gonnamakeitapp
+  twitter: gonnamakeitapp
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
-  youtube: https://www.youtube.com/playlist?list=PLsBoASMQW7UhDYPMxQwSkPZ47_vX_d7tv
+  youtube: playlist?list=PLsBoASMQW7UhDYPMxQwSkPZ47_vX_d7tv
   googleplus: # anything in your profile username that comes after plus.google.com/
 
 
