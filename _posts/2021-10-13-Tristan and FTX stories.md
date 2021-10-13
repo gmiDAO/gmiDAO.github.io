@@ -1,5 +1,7 @@
-# Tristan and FTX stories
-
+---
+layout: post
+title: Tristan and FTX stories
+---
 [MC] - [Raúl Badillo](https://www.linkedin.com/in/raulbrdz/?originalSubdomain=mx), Country Manager of [@FTX_Official](https://twitter.com/FTX_Official) Mexico.
 
 [Tristan Iver](https://twitter.com/jackshaftoes), Head of Strategy [@ftx_us](https://twitter.com/ftx_us) and advisor to [@ProjectSerum](https://twitter.com/ProjectSerum)
