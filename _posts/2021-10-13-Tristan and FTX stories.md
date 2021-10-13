@@ -65,11 +65,11 @@ Lots to be done. Exchanges with very basic functionality, and expensive. Curricu
 
 ---
 
-Thank you @FTX_ES for hosting this interview. Full interview → [Intercambio #1 - Tristan Yver (FTX & Serum) [Spanish]](https://www.youtube.com/watch?v=a5fq8EYLtlM)
+Thank you [@FTX_ES](https://twitter.com/FTX_ES) for hosting this interview. Full interview → [Intercambio #1 - Tristan Yver (FTX & Serum) [Spanish]](https://www.youtube.com/watch?v=a5fq8EYLtlM)
 
 ---
 
-→ **More reads on the Tristan and FTX:**
+→ **More reads Tristan and FTX:**
 
 [Tristan Yver](https://www.cypherhunter.com/en/p/tristan-yver/)
 
