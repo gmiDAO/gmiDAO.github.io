@@ -69,7 +69,7 @@ Thank you [@FTX_ES](https://twitter.com/FTX_ES) for hosting this interview. Full
 
 ---
 
-→ **More reads Tristan and FTX:**
+→ **More reads on Tristan and FTX:**
 
 [Tristan Yver](https://www.cypherhunter.com/en/p/tristan-yver/)
 
