@@ -75,8 +75,8 @@ Thank you @FTX_ES for hosting this interview. Full interview → [Intercambio #1
 
 "*[FTX Trilogy, Part 1: The Prince of Risk](https://www.readthegeneralist.com/briefing/ftx-1)*" by Mario Gabriele, Founder and Editor of The Generalist
 
-![6106c0607af080a199ec0c37_Untitled_Artwork 174.jpg](Tristan%20and%20FTX%20stories%202ce996ded2204db682122586ab1104bd/6106c0607af080a199ec0c37_Untitled_Artwork_174.jpg)
+![SBF card](gmiDAO.github.io/images/sbf card.jpg)
 
 "*[FTX Trilogy, Part 2: Speedrun](https://www.readthegeneralist.com/briefing/ftx-2)*" by Mario Gabriele, Founder and Editor of The Generalist.
 
-![610fe95ced9cf04a32ee69f0_Untitled_Artwork 181.jpg](Tristan%20and%20FTX%20stories%202ce996ded2204db682122586ab1104bd/610fe95ced9cf04a32ee69f0_Untitled_Artwork_181.jpg)
+![ftx constellation](gmiDAO.github.io/images/ftx constellation.jpg)
