@@ -1,4 +1,7 @@
-# Tristan and FTX stories
+---
+layout: post
+title: Tristan and FTX stories
+---
 
 [MC] - [Raúl Badillo](https://www.linkedin.com/in/raulbrdz/?originalSubdomain=mx), Country Manager of [@FTX_Official](https://twitter.com/FTX_Official) Mexico.
 
