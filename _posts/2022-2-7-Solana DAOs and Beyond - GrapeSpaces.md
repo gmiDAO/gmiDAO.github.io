@@ -18,13 +18,13 @@ title: Solana DAOs and Beyond - GrapeSpaces
 
 **Let’s start with [Raj’s tweet](https://twitter.com/rajgokal/status/1489313675227938816) -** **Which are the three to happen for DAOs to take off?** 
 
-Crypt0xG (2:05) - Funding is crucial (No money, ngmi), community belief (has to start centralized and gradually decentralize), and always needs to be a core team to drive milestones and next steps taking feedback from the community (e.g. MonkeDAO is 1700 people impossible to achieve consensus among that many people - one needs a smaller team that reaches consensus and brings it back to the 1700 people).
+G (2:05) - Funding is crucial (No money, ngmi), community belief (has to start centralized and gradually decentralize), and always needs to be a core team to drive milestones and next steps taking feedback from the community (e.g. MonkeDAO is 1700 people impossible to achieve consensus among that many people - one needs a smaller team that reaches consensus and brings it back to the 1700 people).
 
 TheOnlyNom (3:36) - The biggest thing we are dealing with is getting people to actually vote and participate in the governance. Hands-off and successful at the same time not how it works... 
 
 **Sebastian?**
 
-Sebastian Bor (5:21) - Better job on tooling but tooling not enough. DAOs are about people working towards a common goal. Tools without humans not gonna work. DAOs are very different. Hears need that everyone should be involved in the governance but not always necessarily agree that governance is essential in all members - e.g. One who wants to buy [$**MNGO**](https://coinmarketcap.com/currencies/mango-markets/) as an investment same as they would buy APPLE: they believe that people running this will do a good job. 
+Sebastian (5:21) - Better job on tooling but tooling not enough. DAOs are about people working towards a common goal. Tools without humans not gonna work. DAOs are very different. Hears need that everyone should be involved in the governance but not always necessarily agree that governance is essential in all members - e.g. One who wants to buy [$**MNGO**](https://coinmarketcap.com/currencies/mango-markets/) as an investment same as they would buy APPLE: they believe that people running this will do a good job. 
 
 We need tooling but also to structure DAOs in a way that allows to divide and conquer - to have pockets of authority that can manage themselves and that would target the governance apart. Does think that if somebody does not want to vote and does not want to participate, s/he shouldn’t be forced. Trying to engage or get more participation is the wrong problem to solve - we have to think about how to manage DAOs with the people who are actively involved and wanna participate and organize them around leaders. 
 
@@ -52,7 +52,7 @@ Sebastian (23:30) - Lack of focus. We have built the building blocks, what is mi
 
 **(26:15) - feels that there is a lot of ecosystem knowledge gap (ETH players lot to learn about SOL and vice-versa). Crypt0xG, which are your thoughts as [MonkeDAO](https://monkedao.io/) member?**
 
-Crypt0xG (27:42) - agrees with all points made. Sebastian knows our struggles to even have a multi-sig wallet. MonkeDAO is not directly funded on royalties from the original [SMB NFT project](https://twitter.com/SolanaMBS) - SMB allocates part of the royalties to a community wallet and SMB sees MonkeDAO as part of the SMB community (not the SMB community). So if we need to fund ourselves, we need to request funds from the SMB team - e.g. current MonkeDAO incorporation needed a large amount of USDC. MonkeDAO’s treasury management was based on trust at the beginning, now we have multi-sig but this has only been available for 6 weeks, question of time for ecosystem to grow. 
+G (27:42) - agrees with all points made. Sebastian knows our struggles to even have a multi-sig wallet. MonkeDAO is not directly funded on royalties from the original [SMB NFT project](https://twitter.com/SolanaMBS) - SMB allocates part of the royalties to a community wallet and SMB sees MonkeDAO as part of the SMB community (not the SMB community). So if we need to fund ourselves, we need to request funds from the SMB team - e.g. current MonkeDAO incorporation needed a large amount of USDC. MonkeDAO’s treasury management was based on trust at the beginning, now we have multi-sig but this has only been available for 6 weeks, question of time for ecosystem to grow. 
 
 Also, ETH is better founded than SOL. 
 
@@ -64,15 +64,15 @@ Sebastian (31:18) - thinks monkeDAO is a perfect example that a really strong co
 
 **(32:40) - ConstitutionDAO demonstrated the power of contributing to a shared goal and network effects. Do you think is too big to overcome?**
 
-Crypt0xG (34:35) - Does not think it’s too big to overcome. ConstitutionDAO did really well is to have people formed around an idea. You see this with the validator idea, the community really rallied around the idea of MonkeDAO running a validator and use the community to help stake to the validator, help breakeven and then become a net positive revenue stream to the DAO.
+G (34:35) - Does not think it’s too big to overcome. ConstitutionDAO did really well is to have people formed around an idea. You see this with the validator idea, the community really rallied around the idea of MonkeDAO running a validator and use the community to help stake to the validator, help breakeven and then become a net positive revenue stream to the DAO.
 
 **(37:44) - Metrics that matter on DAOs. Grape focuses on how many of their circulating tokens enter their governance votes, how many members (grape holder = member) enter into a skill force role and decay in the engagement of different cohorts over time (would love to see newer cohorts retaining well). Li, your thoughts on metrics?**
 
-Li Jin (39:27) - Thinks it ties back to the mission of the DAO and what the DAO is trying to do. DAO term is like LLC, needs context. If it is a social DAO like [FWB](https://www.fwb.help/) or other tokenised communities would be traditional consumer app metrics (DAU, MAU, retention cohorts, user growth, virality coefficient, ...), if it is an investment DAO (multiple on invested capital, IRR, ...) so not generic answer.
+Li (39:27) - Thinks it ties back to the mission of the DAO and what the DAO is trying to do. DAO term is like LLC, needs context. If it is a social DAO like [FWB](https://www.fwb.help/) or other tokenised communities would be traditional consumer app metrics (DAU, MAU, retention cohorts, user growth, virality coefficient, ...), if it is an investment DAO (multiple on invested capital, IRR, ...) so not generic answer.
 
 **(41:17) - Crypt0xG?**
 
-Crypt0xG (41:56) - fun to watch community vibe in relation to SMB’s floor price - when the price ↑ we see new influx on members when price ↓ people down. We need to think forward and see how we can increase the MonkeDAO member cap above 5K.
+G (41:56) - fun to watch community vibe in relation to SMB’s floor price - when the price ↑ we see new influx on members when price ↓ people down. We need to think forward and see how we can increase the MonkeDAO member cap above 5K.
 
 **(44) - Sebastian?**
 
@@ -84,13 +84,13 @@ Stepan - In case of NFT based governance, measuring participation - meeting quor
 
 **(51:12) - Let’s finalise commenting on what excites us on 2022 around DAOs. He is personally interested in reputation ledger and NFTs that are not transferrable. Thinks is gonna be a space with a lot of experimentation. Li, what excites you around DAOs in 2022?**
 
-Li Jin (51:43) - experimentation with governance models - reputation-based governance, more subDAOs or [pods](https://www.daomasters.xyz/tools/orca) emerging successfully...
+Li (51:43) - experimentation with governance models - reputation-based governance, more subDAOs or [pods](https://www.daomasters.xyz/tools/orca) emerging successfully...
 
 **(53) - Nom, G?**
 
 Nom - improving incentivisation tooling (e.g. automatic rewards for putting out proposals, generating memes, ...)
 
-Crypt0xG - wants to see people getting paid. DAOs that are able to settle proper jobs (Insurance, 401Ks...)
+G - wants to see people getting paid. DAOs that are able to settle proper jobs (Insurance, 401Ks...)
 
 **(55) - Sebastian?**
 
