@@ -1,4 +1,8 @@
-# Solana DAOs and Beyond - GrapeSpaces
+---
+layout: post
+title: Solana DAOs and Beyond - GrapeSpaces
+---
+
 
 [MC] [DeanTheMachine](https://twitter.com/_Dean_Machine) - Building on [#Solana](https://twitter.com/search?q=%23Solana&src=hashtag_click) - [@grapeprotocol](https://twitter.com/grapeprotocol) is here! [http://grapes.network](https://t.co/NTjY9JhGb9) & [http://discord.gg/greatape](https://t.co/mXfDbBCfjx)
 
