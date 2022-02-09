@@ -1,4 +1,7 @@
-# DAOs in 2022 - Solana Riptide Global Hackathon
+---
+layout: post
+title: DAOs in 2022 - Solana Riptide Global Hackathon
+---
 
 [MC] [Ryan M. Shea](https://twitter.com/clockwrrk) - [@Solana](https://twitter.com/Solana)
 
